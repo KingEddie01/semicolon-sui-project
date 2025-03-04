@@ -15,7 +15,7 @@ function SixthPage() {
                     <p className="mb-6">To apply, click the button below:</p>
                     <button
                         type="button"
-                        className="inline-flex items-center justify-center whitespace-nowrap py-2 px-6 rounded-full h-10 bg-[#0A1739] text-white hover:bg-blue-900 hover:cursor-pointer"
+                        className="inline-flex items-center justify-center whitespace-nowrap py-2 px-6 rounded-full h-10 bg-[#0A1739] text-white hover:bg-cyan-900 hover:cursor-pointer"
                     >
                         Apply
                         <IoArrowForwardCircleOutline className="ml-2 h-5 w-5" />

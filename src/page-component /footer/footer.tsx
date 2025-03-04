@@ -8,15 +8,9 @@ function Footer() {
                 <div className="mx-auto grid max-w-6xl gap-8 px-4 md:grid-cols-2">
                     <div>
                         <h4 className="mb-4 text-lg font-bold text-cyan-500">Logistics</h4>
-                        <ul className="space-y-2">
-                            <li className="flex items-start gap-2">
-                                <span className="mt-1 text-cyan-500">•</span>
-                                <span>Accommodation will be provided for teams from outside Lagos.</span>
-                            </li>
-                            <li className="flex items-start gap-2">
-                                <span className="mt-1 text-cyan-500">•</span>
-                                <span>Meals will be provided.</span>
-                            </li>
+                        <ul className="list-disc pl-5 space-y-3 text-black marker:text-blue-600">
+                            <li>Accommodation will be provided for teams from outside Lagos.</li>
+                            <li>Meals will be provided.</li>
                         </ul>
                     </div>
                     <div>

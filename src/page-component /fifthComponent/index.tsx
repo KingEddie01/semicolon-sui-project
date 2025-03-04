@@ -5,7 +5,7 @@ import { GiCheckMark } from "react-icons/gi";
 function FifthPage() {
     return (
         <div>
-            <section className="mx-auto my-16 max-w-6xl px-4 py-8">
+            <section className="mx-auto my-8 max-w-6xl px-4 py-8">
                 <div className="grid gap-8 md:gap-16 md:grid-cols-2">
                     <div className="relative h-[300px] w-full overflow-hidden rounded-xl">
                         <img

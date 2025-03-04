@@ -40,10 +40,7 @@ function HomePage() {
                     <div className={'flex flex-col items-center md:flex-row justify-center gap-2 md:gap-8 mb-12'}>
                         <p className={'text-semi-bold text-center text-3xl italic text-cyan-400 my-8 text-3xl font-md'}>Road
                             to Sui Overflow</p>
-                        <button className={"inline-flex items-center justify-center whitespace-nowrap py-2 px-6 rounded-full h-10 bg-cyan-400 text-blue-900  hover:bg-cyan-200 hover:cursor-pointer"}>Apply
-                            <IoArrowForwardCircleOutline width={24} height={24} className={'ml-2 h-4 w-4 items-center'}/>
 
-                        </button>
                     </div>
                     <div>
                         <div></div>

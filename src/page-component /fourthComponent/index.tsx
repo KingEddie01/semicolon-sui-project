@@ -4,7 +4,7 @@ import Image from "next/image";
 function FourthPage() {
     return (
         <div>
-            <section className="mx-auto max-w-6xl px-4 py-8 my-8">
+            <section className="mx-auto max-w-6xl px-4 py-8 my-4">
                 <div className="relative rounded-xl bg-[#0A1739] overflow-hidden md:overflow-visible">
                     <div className="grid md:grid-cols-2 items-center relative">
                         <div className="p-16 z-10 relative">

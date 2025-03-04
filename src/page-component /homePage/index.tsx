@@ -39,7 +39,6 @@ function HomePage() {
                     <div className={'flex flex-col items-center md:flex-row justify-center gap-2 md:gap-8 mb-12'}>
                         <p className={'text-semi-bold text-center text-3xl italic text-cyan-400 my-8 text-3xl font-md'}>Road
                             to Sui Overflow</p>
-
                     </div>
                     <div>
                         <div></div>

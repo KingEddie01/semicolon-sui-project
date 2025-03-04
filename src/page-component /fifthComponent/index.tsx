@@ -2,9 +2,6 @@ import React from 'react';
 
 import { GiCheckMark } from "react-icons/gi";
 import Image from "next/image";
-
-
-
 function FifthPage() {
     return (
         <div>

@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { GiCheckMark } from "react-icons/gi";
+import Image from "next/image";
 
 
 
@@ -11,20 +12,21 @@ function FifthPage() {
                 <div className="grid gap-8 md:gap-16 md:grid-cols-2">
                     <div className="relative h-[300px] w-full overflow-hidden rounded-xl">
 
+                          <Image
+                                src="https://suihackerhouse.semicolon.africa/participation-requirement-image.png"
+                                alt="Workspace with laptop"
+                                width={500}
+                                height={500}
+                                className="object-cover h-full w-full absolute left-0 top-0 right-0 bottom-0 bg-transparent"
+                            />
 
-                        {/* eslint-disable-next-line @next/next/no-img-element */}
-                        <img
-                            src="https://suihackerhouse.semicolon.africa/participation-requirement-image.png"
-                            alt="Workspace with laptop"
-                            width={500}
-                            height={500}
-                            className="object-cover h-full w-full absolute left-0 top-0 right-0 bottom-0 bg-transparent"
-                        />
+
                     </div>
                     <div className="space-y-4">
                         <h3 className="mb-6 text-3xl font-bold text-blue-600">Participation Requirements</h3>
                         <div className="flex items-center gap-3">
-                            <div className="flex h-6 aspect-square items-center justify-center rounded-full text-white bg-cyan-500">
+                            <div
+                                className="flex h-6 aspect-square items-center justify-center rounded-full text-white bg-cyan-500">
                                 <GiCheckMark />
                             </div>
                             <p>Teams must be physically present at the venue in Lagos throughout the duration of the hacker house (March 24-29).</p>

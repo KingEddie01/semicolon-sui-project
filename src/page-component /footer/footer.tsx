@@ -8,7 +8,7 @@ function Footer() {
                 <div className="mx-auto grid max-w-6xl gap-8 px-4 md:grid-cols-2">
                     <div>
                         <h4 className="mb-4 text-lg font-bold text-cyan-500">Logistics</h4>
-                        <ul className="list-disc pl-5 space-y-3 text-white marker:text-blue-600">
+                        <ul className="list-disc pl-5 space-y-3 marker:text-blue-600 text-white">
                             <li>Accommodation will be provided for teams from outside Lagos.</li>
                             <li>Meals will be provided.</li>
                         </ul>

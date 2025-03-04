@@ -8,7 +8,7 @@ const ThirdPage = () => {
                 <ul className="list-disc pl-5 space-y-3 text-black">
                     <li>Brainstorming and Ideation sessions</li>
                     <li>Workshops and Tutorials</li>
-                    <li>Coaching and Mentorship from Move Experts, including the Sui Foundation's Head of Developer Relations</li>
+                    <li>Coaching and Mentorship from Move Experts, including the Sui Foundation Head of Developer Relations</li>
                     <li>Access to Resources</li>
                     <li>Networking Opportunities</li>
                     <li>Solution Demonstration</li>

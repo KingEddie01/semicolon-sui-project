@@ -2,7 +2,6 @@ import React from 'react';
 import Image from 'next/image';
 import { FiCalendar } from "react-icons/fi";
 import { GrLocation } from "react-icons/gr";
-import { IoArrowForwardCircleOutline } from "react-icons/io5";
 import { LuClock } from "react-icons/lu";
 
 

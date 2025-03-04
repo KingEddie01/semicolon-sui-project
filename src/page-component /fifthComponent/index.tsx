@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { GiCheckMark } from "react-icons/gi";
-import Image from "next/image"
+
 
 
 function FifthPage() {
@@ -11,7 +11,9 @@ function FifthPage() {
                 <div className="grid gap-8 md:gap-16 md:grid-cols-2">
                     <div className="relative h-[300px] w-full overflow-hidden rounded-xl">
 
-                        <Image
+
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img
                             src="https://suihackerhouse.semicolon.africa/participation-requirement-image.png"
                             alt="Workspace with laptop"
                             width={500}

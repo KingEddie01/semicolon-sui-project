@@ -16,7 +16,7 @@ const ThirdPage = () => {
             </div>
             <div className="bg-blue-50 py-16 px-8">
                 <h2 className="text-2xl font-bold text-blue-600 mb-6">Benefits for Participating Teams</h2>
-                <ul className="list-disc pl-5 space-y-3 text-blue-600">
+                <ul className="list-disc pl-5 space-y-3 text-black">
                     <li>Access Mentorship & Coaching</li>
                     <li>Engage with Sui Foundation</li>
                     <li>Hands-On Learning</li>

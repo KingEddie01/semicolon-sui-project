@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from "next/image";
+
 import { GiCheckMark } from "react-icons/gi";
 
 function FifthPage() {
@@ -8,7 +8,7 @@ function FifthPage() {
             <section className="mx-auto my-16 max-w-6xl px-4 py-8">
                 <div className="grid gap-8 md:gap-16 md:grid-cols-2">
                     <div className="relative h-[300px] w-full overflow-hidden rounded-xl">
-                        <Image
+                        <img
                             src="https://suihackerhouse.semicolon.africa/participation-requirement-image.png"
                             alt="Workspace with laptop"
                             width={500}
